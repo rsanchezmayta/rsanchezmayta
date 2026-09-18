@@ -1,6 +1,6 @@
 # ¡Hola! Soy Robinson 👋
 
-🎓 Estudiante de 4.º ciclo de Ingeniería en Ciencia de Datos e Inteligencia Artificial en **SENATI**.
+🎓 Estudiante de 5.º ciclo de Ingeniería en Ciencia de Datos e Inteligencia Artificial en **SENATI**.
 
 🔭 Buscando una **práctica pre-profesional** en ciencia de datos, TI o áreas afines donde pueda aplicar y seguir desarrollando mis habilidades técnicas.
 

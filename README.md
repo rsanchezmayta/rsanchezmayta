@@ -1,4 +1,4 @@
-# ¡Hola! Soy Robinson Josué Sánchez Mayta 👋
+# ¡Hola! Soy Robinson Josuee Sánchez Mayta 👋
 
 🎓 **Estudiante de 5.º ciclo** de Ingeniería en Ciencia de Datos e Inteligencia Artificial en **SENATI**  
 🔭 Buscando **práctica pre-profesional** en Ciencia de Datos, Machine Learning, Data Engineering o Backend  

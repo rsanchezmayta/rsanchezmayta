@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 248" width="800" height="248" role="img" aria-labelledby="title description">
-  <title id="title">369 mil denuncias del SIDPOL–MININTER</title>
+  <title id="title">369 mil registros del SIDPOL–MININTER</title>
   <desc id="description">Análisis geográfico y temporal de denuncias policiales en Perú. La ilustración de puntos es decorativa.</desc>
   <style>
     .pulse { animation: reveal 2.6s ease-out both; transform-box: fill-box; transform-origin: center; }
@@ -25,7 +25,7 @@
   </g>
   <text x="36" y="58" fill="#a4e5c8" font-family="monospace" font-size="20">SIDPOL / MININTER</text>
   <text x="32" y="144" fill="#f5f5ef" font-family="sans-serif" font-weight="700" font-size="78">369 mil</text>
-  <text x="37" y="185" fill="#abcfff" font-family="sans-serif" font-size="24">denuncias analizadas</text>
+  <text x="37" y="185" fill="#abcfff" font-family="sans-serif" font-size="24">registros analizados</text>
   <text x="37" y="215" fill="#b9bdb6" font-family="sans-serif" font-size="18">Perú · análisis geográfico y temporal</text>
   <text x="752" y="214" text-anchor="end" fill="#b9bdb6" font-family="monospace" font-size="13">Ilustración</text>
 </svg>

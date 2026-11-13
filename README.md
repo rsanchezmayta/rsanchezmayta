@@ -15,6 +15,15 @@ Me gusta seguir una pregunta desde los datos hasta una herramienta que alguien p
 
 ![Exploro datos con Python y SQL, evalúo modelos con scikit-learn y XGBoost y publico resultados en tableros o APIs REST.](assets/flujo-de-datos.svg)
 
+## Herramientas que uso
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,sklearn,mysql,flask,docker,githubactions&amp;theme=dark">
+  <img alt="Python, scikit-learn, MySQL, Flask, Docker y GitHub Actions" src="https://skillicons.dev/icons?i=python,sklearn,mysql,flask,docker,githubactions&amp;theme=light" width="318">
+</picture>
+
+Python · scikit-learn · MySQL · Flask · Docker · GitHub Actions
+
 ## Proyectos seleccionados
 
 ### [Denuncias policiales en Perú](https://github.com/rsanchezmayta/denuncias-policiales-peru)

@@ -9,7 +9,14 @@
       85% { opacity: 1; }
       98%, 100% { transform: translateX(706px); opacity: 0; }
     }
-    @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+    .stage { animation: highlight 3.6s ease-out 1; }
+    .model { animation-delay: .9s; }
+    .delivery { animation-delay: 1.8s; }
+    @keyframes highlight {
+      0%, 55%, 100% { stroke-width: 1; }
+      20% { stroke-width: 3; stroke: #f5f5ef; }
+    }
+    @media (prefers-reduced-motion: reduce) { .signal, .stage { animation: none; } }
   </style>
   <defs>
     <linearGradient id="palette">
@@ -22,9 +29,9 @@
   <path d="M52 13H768" stroke="url(#palette)" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
   <circle class="signal" cx="52" cy="13" r="4" fill="#f5f5ef" opacity="0"/>
   <g fill="#141514" stroke="#476456">
-    <rect x="22" y="24" width="240" height="122" rx="12"/>
-    <rect x="290" y="24" stroke="#536480" width="240" height="122" rx="12"/>
-    <rect x="558" y="24" stroke="#66577c" width="240" height="122" rx="12"/>
+    <rect class="stage" x="22" y="24" width="240" height="122" rx="12"/>
+    <rect class="stage model" x="290" y="24" stroke="#536480" width="240" height="122" rx="12"/>
+    <rect class="stage delivery" x="558" y="24" stroke="#66577c" width="240" height="122" rx="12"/>
   </g>
   <g fill="none" stroke="#a4e5c8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M271 85h10m-4-4 4 4-4 4M539 85h10m-4-4 4 4-4 4"/>

@@ -71,10 +71,23 @@ APIs, mapas interactivos y tableros para presentar los resultados.
 
 [**Explorar código y documentación →**](https://github.com/rsanchezmayta/denuncias-policiales-peru)
 
+<details>
+<summary><strong>🔎 Del CSV al tablero · Explora cómo funciona</strong></summary>
+
+1. **Preparar los datos** — importar el CSV a MySQL y organizar las dimensiones geográficas y temporales.
+2. **Encontrar patrones** — extraer agregados con Python, segmentar provincias con K-means y generar pronósticos con SARIMA.
+3. **Explorar los resultados** — guardar segmentos y pronósticos en MySQL para mostrarlos con Laravel, Chart.js y Leaflet.
+
+[Ver los scripts de análisis y modelado](https://github.com/rsanchezmayta/denuncias-policiales-peru/tree/main/ml) · [Leer cómo ejecutar el proyecto](https://github.com/rsanchezmayta/denuncias-policiales-peru#instalación)
+
+</details>
+
 ### Sigue explorando
 
-- 🌐 **[Mi portafolio](https://rsanchezmayta.github.io/)** — proyectos, formación y contacto.
-- 🧪 **[Prácticas y experimentos](https://github.com/rsanchezmayta/personal-practice)** — ejercicios y aprendizaje de mis cursos.
+<p>
+<a href="https://rsanchezmayta.github.io/"><img src="assets/portafolio.svg" alt="Mi portafolio. Proyectos, formación y contacto. Abrir mi web." width="49%"></a>
+<a href="https://github.com/rsanchezmayta/personal-practice"><img src="assets/experimentos.svg" alt="Mis experimentos. Cursos, ejercicios y aprendizaje. Abrir repositorio." width="49%"></a>
+</p>
 
 ---
 

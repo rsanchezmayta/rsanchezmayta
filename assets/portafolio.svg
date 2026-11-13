@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="166" viewBox="0 0 400 166" role="img" aria-labelledby="title desc">
+<title id="title">Mi portafolio</title><desc id="desc">Proyectos, formación y contacto. Explorar mi web.</desc>
+<style>
+.trace {stroke-dasharray:80;animation:draw 5s ease-in-out infinite;}
+.cursor {animation:blink 2s ease-in-out infinite;}
+@keyframes draw {0%{stroke-dashoffset:80;}45%,85%{stroke-dashoffset:0;}100%{stroke-dashoffset:80;}}
+@keyframes blink {0%,100%{opacity:.25;}50%{opacity:1;}}
+@media(prefers-reduced-motion:reduce){.trace,.cursor{animation:none;}}
+</style>
+<rect x="1" y="1" width="398" height="164" rx="16" fill="#111819" stroke="#354b43" stroke-width="2"/>
+<path d="M24 25h28" stroke="#abcfff" stroke-width="3" stroke-linecap="round"/>
+<text x="23" y="66" fill="#f5f5ef" font-size="25" font-weight="700" font-family="sans-serif">Mi portafolio</text>
+<text x="24" y="103" fill="#b9bdb6" font-size="16" font-family="sans-serif">Proyectos, formación y contacto</text>
+<text x="24" y="140" fill="#abcfff" font-size="15" font-family="monospace">Explorar mi web ↗</text>
+<g fill="none" stroke="#abcfff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="305" y="28" width="65" height="51" rx="6"/>
+<path d="M305 40h65M313 34h1m5 0h1m5 0h1M315 50h20m-20 7h13"/>
+<path class="trace" d="m316 69 12-6 10 3 11-14 10 5"/>
+</g>
+</svg>

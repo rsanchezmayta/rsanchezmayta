@@ -1,49 +1,41 @@
-![Cabecera de ciencia de datos con un gráfico decorativo en verde menta](assets/cabecera.png)
-
 # Robinson Josuee Sanchez Mayta
 
-**Estudiante de 5.º ciclo de Ingeniería en Ciencia de Datos e Inteligencia Artificial en SENATI** · Ate, Lima, Perú
+**Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial**<br>
+SENATI · 5.º ciclo · Ate, Lima, Perú
 
-Construyo proyectos que van desde la exploración de datos y el entrenamiento de modelos hasta su uso en tableros y APIs. Busco prácticas preprofesionales en ciencia de datos, machine learning, ingeniería de datos o backend.
+[![Portafolio](https://img.shields.io/badge/Portafolio-A4E5C8?style=flat-square&logo=githubpages&logoColor=10231B)](https://rsanchezmayta.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-176248?style=flat-square)](https://linkedin.com/in/robinson-josuee-sanchez-mayta-03a229429)
+[![Correo](https://img.shields.io/badge/Correo-141514?style=flat-square&logo=gmail&logoColor=A4E5C8)](mailto:robinsonjsm281006@gmail.com)
 
-[Portafolio](https://rsanchezmayta.github.io/) · [LinkedIn](https://linkedin.com/in/robinson-josuee-sanchez-mayta-03a229429) · [Correo](mailto:robinsonjsm281006@gmail.com)
+Me gusta seguir una pregunta desde los datos hasta una herramienta que alguien pueda usar. He trabajado con datos públicos, inmobiliarios y logísticos para explorar patrones, evaluar modelos y presentar resultados en tableros o APIs.
 
-## Proyectos destacados
+> **Busco prácticas preprofesionales en ciencia de datos, machine learning, ingeniería de datos o backend.**
 
-### Denuncias policiales en Perú
+## Proyectos seleccionados
 
-Tablero para explorar **369 mil denuncias del SIDPOL–MININTER** con un mapa coroplético y una API REST. Usa **K-means** para agrupar registros y **SARIMA** para pronosticar tendencias.
+### [Denuncias policiales en Perú](https://github.com/rsanchezmayta/denuncias-policiales-peru)
 
-`Python` · `Laravel` · `MySQL` · `Leaflet`<br>
-[Ver repositorio de denuncias](https://github.com/rsanchezmayta/denuncias-policiales-peru)
+**¿Cómo se distribuyen las denuncias y cómo cambian con el tiempo?** El tablero permite explorar **369 mil registros del SIDPOL–MININTER** con un mapa coroplético y una API REST. El análisis usa K-means para agrupar registros y SARIMA para pronosticar tendencias.
 
-### Lima Housing Analysis
+`Python` · `Laravel` · `MySQL` · `Leaflet`
 
-Análisis de datos inmobiliarios de Lima que abarca desde la exploración y la ingeniería de variables hasta la evaluación de modelos de **XGBoost y Random Forest** y el despliegue en Streamlit.
+### [Lima Housing Analysis](https://github.com/rsanchezmayta/lima-housing-analysis)
 
-`Python` · `pandas` · `XGBoost` · `Streamlit`<br>
-[Ver repositorio de análisis inmobiliario](https://github.com/rsanchezmayta/lima-housing-analysis)
+Exploré datos inmobiliarios de Lima, preparé variables y evalué modelos de XGBoost y Random Forest. Publiqué el análisis en una aplicación de Streamlit.
 
-### Predicción de retrasos en entregas
+`Python` · `pandas` · `XGBoost` · `Streamlit`
 
-Clasificador **Random Forest** integrado en una API REST con Flask y una interfaz web. El proyecto incluye **16 pruebas** y automatización con GitHub Actions.
+### [Predicción de retrasos en entregas](https://github.com/rsanchezmayta/prediccion-retrasos-entrega)
 
-`Python` · `scikit-learn` · `Flask` · `pytest`<br>
-[Ver repositorio de predicción de retrasos](https://github.com/rsanchezmayta/prediccion-retrasos-entrega)
+Integré un clasificador Random Forest en una API REST con Flask y una interfaz web. El proyecto incluye **16 pruebas** y automatización con GitHub Actions.
 
-[Ver código de mi portafolio](https://github.com/rsanchezmayta/rsanchezmayta.github.io) · [Todos mis repositorios](https://github.com/rsanchezmayta?tab=repositories)
+`Python` · `scikit-learn` · `Flask` · `pytest`
 
-## Herramientas
+## Cómo trabajo
 
-- **Datos y modelos** · Python, SQL, pandas, NumPy, scikit-learn y XGBoost
-- **APIs y bases de datos** · Flask, Laravel, MySQL y PostgreSQL
-- **Pruebas y automatización** · pytest, Git y GitHub Actions
+Uso **Python y SQL** para explorar datos, **pandas y scikit-learn** para preparar y evaluar modelos, y **Flask o Streamlit** para poner los resultados al alcance de otras personas. Actualmente profundizo en Docker, MLflow y visualización con Plotly y Folium.
 
-## Actualmente
-
-- Reforzando Docker y MLOps con MLflow, versionado de modelos y pipelines.
-- Practicando visualización con Plotly y Folium e inglés técnico con documentación y papers.
-- Completé la formación *Getting Started with DevOps on AWS*.
+[Ver todos mis repositorios](https://github.com/rsanchezmayta?tab=repositories)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

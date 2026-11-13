@@ -11,9 +11,15 @@ Me gusta seguir una pregunta desde los datos hasta una herramienta que alguien p
 
 > **Busco prácticas preprofesionales en ciencia de datos, machine learning, ingeniería de datos o backend.**
 
+## De los datos a una aplicación
+
+![Exploro datos con Python y SQL, evalúo modelos con scikit-learn y XGBoost y publico resultados en tableros o APIs REST.](assets/flujo-de-datos.svg)
+
 ## Proyectos seleccionados
 
 ### [Denuncias policiales en Perú](https://github.com/rsanchezmayta/denuncias-policiales-peru)
+
+**Datos públicos · Análisis geográfico y temporal**
 
 **¿Cómo se distribuyen las denuncias y cómo cambian con el tiempo?** El tablero permite explorar **369 mil registros del SIDPOL–MININTER** con un mapa coroplético y una API REST. El análisis usa K-means para agrupar registros y SARIMA para pronosticar tendencias.
 
@@ -21,19 +27,23 @@ Me gusta seguir una pregunta desde los datos hasta una herramienta que alguien p
 
 ### [Lima Housing Analysis](https://github.com/rsanchezmayta/lima-housing-analysis)
 
+**Datos inmobiliarios · Modelos predictivos**
+
 Exploré datos inmobiliarios de Lima, preparé variables y evalué modelos de XGBoost y Random Forest. Publiqué el análisis en una aplicación de Streamlit.
 
 `Python` · `pandas` · `XGBoost` · `Streamlit`
 
 ### [Predicción de retrasos en entregas](https://github.com/rsanchezmayta/prediccion-retrasos-entrega)
 
+**Datos logísticos · Clasificación y despliegue**
+
 Integré un clasificador Random Forest en una API REST con Flask y una interfaz web. El proyecto incluye **16 pruebas** y automatización con GitHub Actions.
 
 `Python` · `scikit-learn` · `Flask` · `pytest`
 
-## Cómo trabajo
+## Actualmente
 
-Uso **Python y SQL** para explorar datos, **pandas y scikit-learn** para preparar y evaluar modelos, y **Flask o Streamlit** para poner los resultados al alcance de otras personas. Actualmente profundizo en Docker, MLflow y visualización con Plotly y Folium.
+Estoy reforzando el despliegue de modelos con **Docker y MLflow** y la visualización de datos con **Plotly y Folium**.
 
 [Ver todos mis repositorios](https://github.com/rsanchezmayta?tab=repositories)
 

@@ -13,11 +13,11 @@ Robinson Josuee Sanchez Mayta · SENATI, 5.º ciclo · Ate, Lima, Perú
 
 ## Un poco sobre mí
 
-Me gusta descubrir patrones en los datos y entender qué hay detrás de un resultado. Estoy estudiando Ciencia de Datos e IA en SENATI y aprendo construyendo proyectos que conectan **análisis, modelos predictivos y aplicaciones web**.
+Soy estudiante de **Ciencia de Datos e Inteligencia Artificial en SENATI**, con interés en el análisis de datos, el aprendizaje automático y el desarrollo de aplicaciones. A través de mis proyectos, fortalezco mis habilidades para identificar patrones, interpretar resultados y comunicar hallazgos.
 
-Mi proyecto de denuncias policiales me ha permitido trabajar con datos abiertos de Perú, segmentación con K-means y pronósticos con SARIMA. Disfruto convertir ese análisis en mapas y tableros que se puedan explorar.
+En mi proyecto de denuncias policiales, trabajé con **datos abiertos de Perú**, apliqué **K-means** para segmentar provincias y **SARIMA** para generar pronósticos. Integré los resultados en mapas y tableros interactivos para facilitar su exploración.
 
-También me interesa el entorno en el que desarrollo. Uso **Linux, Neovim y Git**, y sigo practicando cómo organizar, documentar y compartir lo que construyo.
+Utilizo **Linux, Neovim y Git** en mi entorno de desarrollo. Complemento mi formación con prácticas de organización del código, documentación y control de versiones para construir proyectos que puedan comprenderse y mantenerse.
 
 > 🎓 **Busco prácticas preprofesionales** en ciencia de datos, machine learning, ingeniería de datos o backend.
 
